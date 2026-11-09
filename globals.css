@@ -1,0 +1,2 @@
+:root{color-scheme:light dark}
+@media (prefers-color-scheme:dark){body{background:#111;color:#eee}a{color:#8ab4ff}}
